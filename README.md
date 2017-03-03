@@ -1,4 +1,28 @@
 # makeador-core
+
+
+<p>
+  <a href="https://travis-ci.org/makeador/makeador-core">
+    <img src="https://travis-ci.org/makeador/makeador-core.svg?branch=master"
+         alt="Build Status">
+  </a>
+
+  <a href="https://npmjs.org/package/makeador-core">
+    <img src="https://img.shields.io/npm/v/makeador-core.svg"
+         alt="NPM Version">
+  </a>
+
+  <a href="https://npmjs.org/package/makeador-core">
+    <img src="http://img.shields.io/npm/dm/makeador-core.svg"
+         alt="Downloads">
+  </a>
+
+  <a href="https://david-dm.org/makeador/makeador-core.svg">
+    <img src="https://david-dm.org/makeador/makeador-core.svg"
+         alt="Dependency Status">
+  </a>
+</p>
+
 `makeador-core` is the barebones of the whole makeador ecosystem, intended to be used in CLIs and microservices.
 
 ## Documentation
