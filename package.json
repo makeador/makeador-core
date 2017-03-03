@@ -1,0 +1,21 @@
+{
+  "name": "makeador-core",
+  "version": "0.0.0",
+  "description": "Module that exposes makeador statuses",
+  "main": "build/main.js",
+  "repository": "https://github.com/makeador/makeador-core",
+  "author": "Ignacio Álvarez, Esteban Las, Rodrigo López",
+  "license": "MIT",
+  "scripts": {
+    "build": "backpack build",
+    "test": "xo && yarn build; ava"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "backpack-core": "^0.2.0",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true
+  }
+}
