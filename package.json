@@ -1,6 +1,6 @@
 {
   "name": "makeador-core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Module that exposes makeador statuses",
   "main": "build/main.js",
   "repository": "https://github.com/makeador/makeador-core",
