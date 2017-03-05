@@ -1,5 +1,7 @@
 # makeador-core
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/makeador/makeador-core.svg)](https://greenkeeper.io/)
+
 
 <p>
   <a href="https://travis-ci.org/makeador/makeador-core">
