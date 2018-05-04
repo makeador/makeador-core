@@ -13,7 +13,7 @@
   "devDependencies": {
     "ava": "^0.18.2",
     "backpack-core": "^0.2.0",
-    "xo": "^0.17.1"
+    "xo": "^0.21.0"
   },
   "xo": {
     "space": true
