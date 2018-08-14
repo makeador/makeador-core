@@ -28,7 +28,7 @@
 ## Documentation
 This module exposes a default function (`makeador`) returning an apparently random `makea` state (not random).
 
-### `makeador() : {String}`
+### `makeador() : String`
 Returns a makea state string
 
 ### Makea states
